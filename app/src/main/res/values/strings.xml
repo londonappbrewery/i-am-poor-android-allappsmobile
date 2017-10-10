@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="imagenppal">Imagen en Pantalla</string>
+    <string name="textoPrincipal">Texto en Pantalla</string>
 </resources>

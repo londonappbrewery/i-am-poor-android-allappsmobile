@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:contentDescription="@string/textoPrincipal"
         android:text="@string/app_name"
         android:textSize="50sp"
         tools:text="@string/app_name"/>
@@ -28,5 +29,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView"
+        android:contentDescription="@string/imagenppal"
         app:srcCompat="@drawable/coal"/>
 </RelativeLayout>
